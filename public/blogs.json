@@ -1,0 +1,50 @@
+{
+    "data": [
+      {
+        "id": 1,
+        "cover": "https://i.ibb.co/B39wv5s/1.jpg",
+        "title": "Fake Book 1",
+        "author_img": "https://i.ibb.co/0f3b8m8/boy1.png",
+        "author":"Shua Rukh Khan",
+        "posted_date": "2023-09-14",
+        "time": "14:30",
+        "reading_time":5,
+        "hashtags": ["#fiction", "#bestseller"]
+      },
+      {
+        "id": 2,
+        "cover": "https://i.ibb.co/7Kb2QWR/2.png",
+        "title": "Fictional Adventures",
+        "author_img": "https://i.ibb.co/3RgMFCQ/boy2.jpg",
+        "author":"Salman Khan",
+        "posted_date": "2023-09-13",
+        "time": "10:15",
+        "reading_time":9,
+        "hashtags": ["#adventure", "#fantasy"]
+      },
+      {
+        "id": 3,
+        "cover": "https://i.ibb.co/vBYjRG1/3.png",
+        "title": "Mystery Unveiled",
+        "author_img": "https://i.ibb.co/nPb6Kkf/girl1.jpg",
+        "author":"Amir Khan",
+        "posted_date": "2023-09-12",
+        "time": "16:45",
+        "reading_time":10,
+        "hashtags": ["#mystery", "#suspense"]
+      },
+      {
+        "id": 4,
+        "cover": "https://i.ibb.co/9v7Bncq/4.jpg",
+        "title": "Sci-Fi Wonders",
+        "author_img": "https://i.ibb.co/z6zxH9R/girl2.jpg",
+        "author":"Shohel Khan",
+        "posted_date": "2023-09-11",
+        "time": "09:00",
+        "reading_time":8,
+        "hashtags": ["#scifi", "#space"]
+      }
+     
+    ]
+  }
+  
